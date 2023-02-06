@@ -1,1 +1,1 @@
-# CBserver.github.io
+# MinecraftCuberUnion.github.io
